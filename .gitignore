@@ -20,6 +20,8 @@ parts/
 sdist/
 var/
 wheels/
+venv/
+__pycache__
 *.egg-info/
 .installed.cfg
 *.egg
@@ -102,3 +104,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Vscode
+.vscode/
